@@ -1,0 +1,15 @@
+.date-time-picker-pf {
+    margin-left: 18px;
+    padding-right: 36px !important;
+}
+
+.login-pf body {
+    background: white;
+}
+
+div.kc-logo-text {
+    background: url(../img/keycloak-logo-text.png) no-repeat;
+    width: 300px;
+    height: 136px;
+    margin: 0 auto;
+}
